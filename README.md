@@ -45,6 +45,7 @@ Awesome Remote Work
 - [http://www.authenticjobs.com/#onlyremote=1](http://www.authenticjobs.com/#onlyremote=1)
 - [http://www.remoteyear.com/jobs/](http://www.remoteyear.com/jobs/), job board of RemoteYear program.
 - [http://nomadjobs.io/](http://nomadjobs.io/)
+- [https://www.jobnetworknigeria.com/](https://www.jobnetworknigeria.com/) a job board for both remote and on-site jobs.
 - [http://jobmote.com/](http://jobmote.com/)
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
